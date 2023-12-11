@@ -1,0 +1,1 @@
+int sito_limit_current();
